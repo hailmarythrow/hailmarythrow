@@ -19,8 +19,8 @@ Ask me about: The Catholic Prayer app I helped create
   <li>I have one 11 year old cat</li>
   <li>I love learning about new tech and software</li>
   <li>I make people disappear (I love using Photoshop)</li>
-  <li>I make people disappear (I love using Photoshop)</li>
   <li> I LOVE coffee (slowly getting into tea for health)</li>
+  <li>I've learned HTML/CSS and 3D Sculpting (ZBrush) during my undergrad</li>
   <li>Hobbies: Learning about Catholic Saints, "breaking"/testing software and apps, playing video games</li>
 </ul>
   
