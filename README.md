@@ -1,5 +1,23 @@
 ## Hi there <img width="30" height="30" alt="neko_wave" src="https://github.com/user-attachments/assets/40b9cd98-77a6-4ec8-86e6-ffa4b0cd770e" />
 
+I'm <a href="https://github.com/hailmarythrow">Julie</a>, a marketing student based in California
+
+I like to dabble in code every now and again.
+
+I'm not the best at it, but I always have lots of ideas.
+
+Ask me about: The Catholic Prayer app I helped create
+
+Currently in my first year of Fantasty Football, but I will get back to you within 24hrs
+
+ Fun Facts About Me:
+ 
+ I have one 11 year old cat
+ I love learning about new tech and software
+ I make people disappear (I love using Photoshop)
+ I LOVE coffee (slowly getting into tea for health)
+ Hobbies: Learning about Catholic Saints, "breaking"/testing software and apps, playing video games
+
 <!--
 **hailmarythrow/hailmarythrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
