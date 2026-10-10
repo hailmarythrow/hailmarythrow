@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img width="112" height="112" alt="neko_wave" src="https://github.com/user-attachments/assets/40b9cd98-77a6-4ec8-86e6-ffa4b0cd770e" />
 
 <!--
 **hailmarythrow/hailmarythrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
