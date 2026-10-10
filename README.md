@@ -11,7 +11,7 @@ I'm not the best at it, but I always have lots of ideas.
 Ask me about: The Catholic Prayer app I helped create
 
 
- Fun Facts About Me:
+ <p><strong>Fun Facts About Me:</strong>
 
  <ul>
   <li>I have one 11 year old cat</li>
