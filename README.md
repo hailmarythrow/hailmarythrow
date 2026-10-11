@@ -16,7 +16,7 @@ Ask me about: The Catholic Prayer app I helped create
  <p><strong>Fun Facts About Me:</strong>
 
  <ul>
-  <li>I have one 11 year old cat</li>
+  <li>I have an 11 year old cat</li>
   <li>I love learning about new tech and software</li>
   <li> I LOVE coffee (slowly getting into tea for health)</li>
    <li>I make people disappear (I love using Photoshop)</li>
